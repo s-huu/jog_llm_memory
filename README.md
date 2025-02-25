@@ -1,4 +1,5 @@
 # Unlearning or Obfuscating? Jogging the Memory of Unlearned LLMs via Benign Relearning
+<img width="961" alt="whp_verbatim" src="https://github.com/user-attachments/assets/fece2575-b218-4b00-a0b0-4d5cc973aa81" />
 
 This repository contains the code and experiments for the manuscript:
 
