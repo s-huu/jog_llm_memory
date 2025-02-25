@@ -1,0 +1,15 @@
+model_family: llama2-7b
+
+LoRA:
+  r: 0
+  alpha: 32
+  dropout: 0.05
+
+batch_size: 16
+gradient_accumulation_steps: 1
+num_epochs: 10
+lr: 1e-5
+save_dir: results/
+
+weight_decay: 0.01
+seed: 42

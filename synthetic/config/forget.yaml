@@ -1,0 +1,21 @@
+model_family: llama2-7b
+model_path: shengyuanhu/common_names_7_repitition_ft
+LoRA:
+  r: 0
+  alpha: 32
+  dropout: 0.05
+
+file_name: common_names_ft.txt
+lr: 1e-5
+batch_size: 4
+gradient_accumulation_steps: 1
+num_epochs: 20
+forget_loss: grad_ascent
+
+save_dir: results/unlearn/
+overwrite_dir: true
+weight_decay: 0.01
+save_model: true
+eval_while_train: false
+eval_only: false
+seed: 42

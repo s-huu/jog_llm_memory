@@ -1,0 +1,18 @@
+model_family: llama2-7b
+model_path: shengyuanhu/common_names_7_repetition_unlearn_8
+
+LoRA:
+  r: 0
+  alpha: 32
+  dropout: 0.05
+
+file_name: common_names_relearn.txt
+split: full
+batch_size: 16
+gradient_accumulation_steps: 1
+num_epochs: 30
+lr: 1e-5
+save_dir: results/relearn/
+
+weight_decay: 0.01
+seed: 42
