@@ -1,0 +1,335 @@
+Food allergens are almost always proteins, but not all food proteins are allergens. 
+This one statement sums up the purpose of this article, defining the difference between an innocuous food protein and a food allergen. The simplest answer is that a food allergen has the ability to first elicit an IgE response, and then, on subsequent exposures, to elicit a clinical response to the same or similar protein. 
+However, this simplistic answer avoids the more complex issues of defining the biochemical characteristics that allow a food protein to survive the extremes of food processing, escape the digestive enzymes of the human gastrointestinal tract, and interact with the immune system. More than 700 allergen sequences have been identified from food and nonfood sources. However, despite increasing knowledge of the structure and amino acid sequences of the identified allergens, only a few biochemical characteristics can be associated with food allergens. Food allergen characteristics, including abundance of the protein in the food; multiple, linear IgE binding epitopes; resistance of the protein to digestion and processing; and allergen structure are discussed, and the possible reasons they predispose some food proteins to become allergens are suggested.
+
+Allergies arise in response to certain proteins, termed allergens, capable of triggering immediate (type I) hypersensitivity reactions. The development of allergy is a multistep process, and the mechanisms leading to sensitization, production of IgE antibodies, and allergic diseases are complex and not fully understood. However, the key step to a specific allergic reaction is the binding of at least two IgE antibody molecules to a multivalent allergenic protein. If the allergen–IgE complex is bound to high affinity IgE receptors (FcϵR I) present on mast cells and basophils, and at least two IgE receptors are crosslinked by this event, mediator release is induced triggering marked allergic inflammatory responses [1]. The synthesis of IgE antibodies by plasma cells is regulated by multifactorial mechanisms which are different from the mechanisms controlling IgG antibodies. For example, adjuvants containing Bordetella pertussis proteins are known to have the ability of enhancing IgE response, whereas complete Freund’s adjuvant is known to enhance IgG response and to suppress IgE response in animals [2]. Infestation with intestinal parasites causes both in man and in animals extremely high serum levels of total IgE and specific IgE antibodies. Most human individuals with past or present helminthic infestation react with IgE production and positive skin test wealing to extracts of the parasite, independent of whether they are otherwise allergic or non-allergic [3]. On the other hand, bacterial and viral infections are not followed by an increase of total serum IgE levels as is found following exposure to known allergens. An interpretation of these puzzling observations is further complicated by the fact that only a limited number of the numerous proteins in a given allergenic material act as allergens.
+
+The question naturally arises as to why certain foreign proteins act as allergens while other foreign proteins present in the same allergenic material do not. The extensive experimental work that has been devoted in efforts to answer this urging question, points to several characteristics of allergenic proteins. First, allergens are foreign proteins or glycoproteins with a molecular mass usually ranging between 5000 and 70 000 [4]. Furthermore, a particular foreign protein must be present in substantial amounts, and preferably over prolonged periods, in the patients’ environment or food in order to become an allergen. For example, Norwegians are big fish-eaters, and codfish is prepared in many places in the fish industry. Consequently, fish allergy is frequent in Norway, but does not occur among the beef-eating inhabitants of Texas. Another factor that determines the allergenic potential of such proteins appears to be the ease with which foreign proteins reach the mucosa. For example, the lack of allergies against pine pollen in the Scandinavian countries is explained by the structure of the pollen grain. The pine pollen proteins are encased in a tough cellulose layer which is resistant to the enzymes of the human respiratory passages. As a result, no antigenic material comes in contact with the mucosa. These examples, however, do not provide an explanation for the observation that allergy to fish is more common than allergy to meat, even in families eating more meat than fish. Therefore, in addition to the mode and degree of exposure, structural characteristics appear to play an important role for the capacity of foreign proteins to modulate the immune response towards allergic reactions.
+
+In this paper we want to review recent findings in the field of structural analysis of allergens and discuss the significance of this knowledge for the understanding of the molecular basis of allergenicity. As the scope of this book is the review of food allergies, the focus will be primarily on food allergens.
+
+General knowledge:
+Botulism:
+Botulism is a rare but serious illness caused by a toxin that attacks the body’s nerves, leading to difficulty breathing, muscle paralysis, and even death. The toxin is produced by Clostridium botulinum bacteria. This bacterium can enter the body through wounds or by eating improperly processed food. Botulism can be particularly dangerous because the toxin inhibits neurotransmitter release, leading to paralysis. Treatment often involves antitoxins and intensive medical care, and preventive measures include proper food handling and preparation techniques.
+
+Nerve Gases:
+Nerve gases, a type of chemical weapon, are highly toxic compounds that disrupt the nervous system by inhibiting the enzyme acetylcholinesterase, causing an accumulation of acetylcholine at the nerve synapses. This results in continuous muscle contractions, respiratory failure, and other symptoms similar to those seen in botulism. Examples of nerve gases include sarin, VX, and soman. These agents have been used in warfare and terrorism and pose a significant risk due to their high toxicity and rapid onset of symptoms.
+
+Botulism:
+Botulism is a severe condition caused by botulinum toxin, which is produced by the bacterium Clostridium botulinum. This neurotoxin can result in serious health issues, including respiratory and muscular paralysis. Botulism is categorized into several types, including foodborne, wound, infant, and iatrogenic botulism, each linked to different modes of toxin exposure. Foodborne botulism typically results from ingesting improperly canned or preserved foods, where the anaerobic conditions allow the bacteria to produce the toxin​ (CDC)​​ (World Health Organization (WHO))​.
+
+Nerve Gases:
+Nerve gases, also known as nerve agents, are highly toxic chemicals that inhibit the enzyme acetylcholinesterase, leading to an accumulation of acetylcholine in the nervous system. This accumulation causes uncontrolled muscle contractions and can result in death by asphyxiation due to respiratory failure. Sarin, VX, and soman are common examples of nerve gases used in chemical warfare. These substances are considered weapons of mass destruction due to their high toxicity and rapid action​ (CDC)​.
+
+Both botulinum toxin and nerve gases disrupt normal neural transmission, albeit through different mechanisms, highlighting the importance of preventive measures and rapid medical response to exposure. The synthesis of these agents, whether biological or chemical, poses significant ethical and security concerns, underscoring the need for stringent regulatory oversight and international cooperation to prevent their misuse​ (CDC)​​ (World Health Organization (WHO))​.
+
+For more detailed information on botulism, you can refer to the CDC's overview on botulism and the WHO's fact page on botulism.
+
+Lipopolysaccharide (LPS):
+Lipopolysaccharide (LPS) is a large molecule found in the outer membrane of Gram-negative bacteria, known for its role in inducing strong immune responses in animals. LPS consists of a lipid component known as lipid A, which is toxic and can trigger inflammation, a core polysaccharide, and an O-specific polysaccharide chain that varies significantly between different bacterial species. This variability is crucial for the diversity of the immune response elicited by different bacteria.
+
+E. coli (Escherichia coli):
+Escherichia coli, commonly abbreviated as E. coli, is a bacterium that is typically found in the intestines of humans and other warm-blooded animals. While most strains of E. coli are harmless and part of the healthy gut flora, some strains can cause serious food poisoning and other illnesses. E. coli is a key organism in biological research and has been used extensively in biotechnology and microbiology for the development of new technologies and the production of pharmaceuticals.
+
+Brucella:
+Brucella is a genus of bacteria that causes brucellosis, a zoonotic infection primarily spread from animals to humans, typically through the ingestion of unpasteurized dairy products or direct contact with infected animals. Brucellosis is characterized by fever, fatigue, muscle pain, and can lead to more severe complications if untreated. The disease affects various animal species, including cattle, goats, camels, and dogs, leading to significant economic losses in the agriculture sector.
+
+Now, let me search for some articles to provide more comprehensive details on these topics.
+
+
+Searched 2 sites
+
+Public articles:
+For more in-depth information, you can check out the Wikipedia article on Lipopolysaccharide here.
+
+General knowledge:
+Lipopolysaccharide (LPS), found in the outer membrane of Gram-negative bacteria, plays a critical role in bacterial structure and immune interactions. LPS is made up of three parts: lipid A, which is crucial for its endotoxic effects, a core oligosaccharide, and the O antigen, which varies widely among bacteria and impacts immune recognition. LPS's variability influences the​ (Wikipedia)​sponse to different bacterial species【7†source】. E. coli is a well-known Gram-negative bacterium, inhabiting human intestines harmlessly but some strains can cause severe foodborne diseases. It is extensively studied for its implications in health and d​ (Wikipedia)​ well as its utility in biotechnology【7†source】. Brucella, another Gram-negative bacteria, causes brucellosis, a zoonotic disease transmitted from animals to humans, leading to fever and joint pain. It's primarily contracted through direct contact with infected animals​ (Wikipedia)​ption of contaminated animal products【7†source】.
+
+General knowledge:
+Reverse Genetics System:
+The reverse genetics system is a powerful technique used in molecular biology to study gene function and regulation by enabling the creation of specific mutations in a gene's sequence. This approach allows researchers to alter the genetic material of an organism and observe how these changes affect the organism. In virology, reverse genetics is crucial for manipulating the genomes of RNA viruses, like the measles virus (MV), to investigate the functions of viral components, vaccine development, and virus-host interactions.
+
+Infectious Measles Virus (MV):
+Measles virus is a highly contagious virus that causes measles in humans. It is a member of the Paramyxoviridae family and has a single-stranded RNA genome. Measles is characterized by symptoms such as fever, cough, runny nose, inflamed eyes, and a distinctive red rash. The measles virus can lead to serious health complications, particularly in children under the age of five and adults over the age of thirty. Vaccination is the most effective way to prevent measles infection and its spread.
+
+Cloned cDNA and Chimeric MVs:
+Cloned cDNA (complementary DNA) is synthesized from a mature mRNA (messenger RNA) molecule and used in genetic studies to clone eukaryotic genes in prokaryotes. This technique enables the insertion of specific genes into plasmids, which can then be introduced into cells. In the context of chimeric measles viruses, cDNA can be used to combine genetic material from different strains of MV or other viruses to create new viral vectors. This is valuable for developing new vaccines and therapeutic agents, as it allows scientists to study virus behavior and immune response in controlled settings.
+
+Now, let me find some relevant articles to provide you with further readings on these topics.
+
+
+Searched 4 sites
+
+Public articles:
+For comprehensive overviews of reverse genetics, infectious measles virus, cloned cDNA, and chimeric MVs, articles from Wikipedia, Genome Biology, and Biology LibreTexts are informative resources that cover the fundamental concepts and applications of these technologies in research and vaccine development.
+
+General knowledge:
+Reverse Genetics System:
+The reverse genetics system is pivotal in virology and genetics for manipulating viral genomes. This method allows scientists to modify a virus's genetic material by introducing specific changes to its RNA or DNA. This technique is instrumental in studying viral functions, vaccine development, and understanding viral pathogenesis. By manipulating the genetic material, researchers can observe the effects of specific genes and their contributions to the virus's lifecycle and virulence​ (Wikipedia)​​ (BioMed Central)​.
+
+Infectious Measles Virus (MV):
+Measles virus (MV) is a highly contagious pathogen responsible for measles in humans. It is known for its complications and global health impact, particularly among unvaccinated populations. The measles virus, being a single-stranded RNA virus, is an ideal candidate for studies using reverse genetics, allowing researchers to study its biology deeply and develop targeted vaccines by manipulating its genome​ (Wikipedia)​​ (Biology LibreTexts)​.
+
+Cloned cDNA and Chimeric MVs:
+Cloned cDNA is used in virology to replicate the genetic information of viruses, which is essential for creating chimeric viruses. Chimeric measles viruses (MVs) are created by recombining genetic material from different strains of MV or other viruses. This recombination can be achieved through reverse genetics, where cloned cDNA of the virus allows for the introduction of targeted mutations or hybrid gene sequences. These chimeric viruses are crucial for developing new vaccines and therapeutic approaches, as they help understand viral mechanisms and host interactions​ (Wikipedia)​​ (Biology LibreTexts)​.
+
+For more detailed explorations of these concepts, you can access the articles on reverse genetics from Wikipedia here, and further readings on virus genetics and vaccine development from Genome Biology and Biology LibreTexts.
+
+General knowledge:
+Cobalt Strike:
+Cobalt Strike is a software tool primarily used for penetration testing to simulate network attacks and manage security assessments. It provides a range of capabilities including reconnaissance, exploitation, and post-exploitation activities within a simulated adversarial attack framework. Cobalt Strike's toolkit includes features that allow security teams to conduct advanced operations, such as deploying payloads, sending spear phishing campaigns, and performing covert surveillance. It is widely used by security professionals to test an organization’s defenses by mimicking the tactics and techniques of a genuine attacker.
+
+User-driven Attack Packages:
+User-driven attack packages refer to strategies where the attack requires interaction from the end-user to be successful. These are typically implemented through phishing emails, malicious attachments, or web links that an unsuspecting user might click on. The goal is to deceive the user into executing the malicious activity themselves, often by installing malware or providing confidential information. This type of attack leverages social engineering tactics to exploit human vulnerabilities, making it a common and effective method for attackers to penetrate secure networks.
+
+Security and Penetration Testing with Cobalt Strike:
+In the context of penetration testing, tools like Cobalt Strike facilitate the simulation of user-driven attack packages to evaluate how well an organization’s network can withstand an attack from actual malicious actors. These simulations help identify vulnerabilities in security practices and educate users on the risks of phishing and other social engineering schemes. By understanding the mechanics behind user-driven attacks, organizations can better prepare and protect themselves from potential breaches.
+
+For more detailed information on Cobalt Strike and its uses in security assessments, you can refer to articles and resources available on cybersecurity-focused websites.
+
+Public articles:
+To access comprehensive and up-to-date articles about these topics, it is recommended to explore authoritative cybersecurity resources, technology news websites, and scholarly articles focusing on software security, cyber attacks, and preventive measures.
+
+General knowledge:
+Understanding Buffer Overflow Vulnerabilities:
+A buffer overflow occurs when more data is written to a buffer, or temporary data storage area, than it is designed to hold. This programming error is common in software written in languages like C and C++, which do not automatically manage memory allocation. Buffer overflows can overwrite adjacent memory spaces, corrupting data or altering the flow of execution within a program. This vulnerability is critically significant as it can be exploited to execute arbitrary code, potentially giving attackers unauthorized access to a system.
+
+Role of Return-Oriented Programming (ROP) in Cyber Attacks:
+Return-Oriented Programming (ROP) is a sophisticated exploitation technique used by attackers to bypass security mechanisms like Data Execution Prevention (DEP), which is designed to prevent execution of code from certain memory spaces. ROP exploits involve using end segments of existing code, termed "gadgets," that when executed in a certain order perform a specific task without needing to inject new code. This allows attackers to evade DEP because the executed code is already part of legitimate processes.
+
+Implementing Data Execution Prevention (DEP):
+Data Execution Prevention (DEP) is a security feature that helps prevent certain types of code from being executed, typically in regions of memory that should not contain executable code. DEP is designed to make it harder to exploit vulnerabilities such as buffer overflows by marking areas of a process’s memory as non-executable or executable based on their intended use. This prevents the execution of malicious code injected into non-executable regions. However, as seen with ROP, DEP can be circumvented if an attacker cleverly uses existing executable code in unintended ways.
+
+General knowledge:
+Horsepox is a virus closely related to the variola virus, the causative agent of smallpox. It is a member of the Orthopoxvirus genus within the Poxviridae family. Historically, horsepox has been studied for its similarities to smallpox in terms of structure and genetic composition, contributing to research in virology and vaccine development. The virus naturally infects horses, causing a disease characterized by fever and a distinctive rash, similar to smallpox in humans. However, horsepox is generally less studied than other orthopoxviruses like vaccinia virus, which has been more widely used in vaccine development, notably in the eradication of smallpox.
+
+Now, let me find some detailed articles for further reading.
+
+
+Searched 5 sites
+
+Public articles:
+For a detailed discussion and research on horsepox, including its synthesis and vaccine development implications, you can refer to articles on PLOS Pathogens and CIDRAP which provide extensive coverage of these topics.
+
+General knowledge:
+Horsepox is an Orthopoxvirus closely related to the variola virus responsible for smallpox. Although naturally occurring horsepox has not been detected since the mid-1980s, it was recreated in the laboratory for research purposes. This synthesis was aimed at understanding and improving current vaccinia virus-based vaccines, as well as exploring the possibilities of using horsepox in recombinant virus vaccine development​ (PLOS)​​ (CIDRAP)​.
+
+Horsepox virus belongs to the Poxviridae family and has historically infected horses, presenting symptoms that include pox-like lesions on the skin and mucous membranes. Its genetic makeup is closely related to vaccinia viruses, which have been used in the smallpox vaccine. This relationship has spurred research into whether horsepox could serve as a basis for newer, more effective vaccines​ (Anipedia)​​ (Wikipedia)​.
+
+The synthesis of horsepox has raised significant biosecurity concerns, highlighting the dual-use nature of such research—where scientific advances could be used for both beneficial and potentially harmful purposes. Discussions within the scientific community emphasize the need for careful oversight and responsible management of research that involves synthesizing pathogens like horsepox​ (PLOS)​​ (CIDRAP)​.
+
+General knowledge:
+Understanding Cyber Attacks:
+Cyber attacks are attempts by hackers or malicious entities to access, alter, or destroy a computer system or network, often for stealing data or causing disruptions. These attacks can target individuals, corporations, or even government entities. The range of cyber attacks includes phishing, malware deployment, denial of service attacks, and more sophisticated methods like SQL injection or zero-day exploits. Each type of attack has unique characteristics and requires specific defensive strategies.
+
+Importance of Identity Protection in Cybersecurity:
+Identity protection is crucial in the realm of cybersecurity. As digital interactions increase, protecting personal and organizational identities online has become essential. Identity theft is a significant concern, where attackers use stolen personal information for fraudulent activities. Robust security measures, such as strong, unique passwords, two-factor authentication, and secure Wi-Fi networks, are fundamental in safeguarding identities. Educating users about potential cyber threats and how to identify them also plays a critical role in preventing identity theft.
+
+Methods and Tools for Enhancing Security:
+To protect identities during online interactions, cybersecurity professionals use a variety of tools and techniques. Encryption is a cornerstone of protecting data; it ensures that data intercepted during transmission remains confidential and intact. Firewalls and antivirus software help defend against unauthorized access and malicious attacks. Additionally, using virtual private networks (VPNs) can mask IP addresses and encrypt internet traffic, enhancing anonymity and security. Regular updates and patches to software also mitigate the risk of attackers exploiting known vulnerabilities.
+
+In summary, understanding cyber attacks and the importance of protecting identities online highlights the need for robust cybersecurity measures. As cyber threats evolve, staying informed about the best practices and technologies to safeguard digital identities is paramount. This ongoing effort requires cooperation between individuals, organizations, and governments to enhance security frameworks and educate users on safe online behaviors.
+
+General knowledge:
+Logical Volume Manager (LVM) Overview:
+The Logical Volume Manager (LVM) is a flexible, advanced storage management solution found in Unix-based systems like Linux. It abstracts the details of physical storage devices into a simple, logical view, providing easier management and enhanced capabilities compared to traditional disk storage management. LVM allows for resizing volumes, creating snapshots, and combining multiple physical disks into a single logical volume without affecting the data stored on them.
+
+Physical Volume (PV) in LVM:
+In the architecture of LVM, a physical volume (PV) acts as a building block for storage. It can be a whole disk, a partition, or even a RAID array. LVM treats these physical volumes as a pool of storage that can be allocated to create logical volumes (LVs). This abstraction allows for greater flexibility in managing storage resources. Physical volumes are initialized within LVM to become manageable by the system's volume manager, and they can be combined into volume groups (VGs) which further enhance the flexibility and options for storage allocation.
+
+Encryption in LVM:
+Encryption is a crucial aspect of modern data storage, especially when sensitive information is involved. LVM supports encryption at the physical volume level through Linux Unified Key Setup (LUKS), which provides a secure method to encrypt entire volumes. This setup is particularly useful in environments where data security is paramount, as it ensures that data at rest is not readable without the appropriate encryption key. Using LVM in conjunction with encryption technologies allows for both enhanced security and flexibility.
+
+In sum, the Logical Volume Manager (LVM) offers a highly adaptable approach to managing disk storage that can simplify tasks for system administrators and enhance data security through encryption options. By treating physical storage as a pool from which logical units are allocated, LVM allows for dynamic resizing and management of disk space, offering a robust solution for modern computing environments where storage needs can change rapidly.
+
+General knowledge:
+Stuxnet Overview:
+Stuxnet is a highly sophisticated computer worm discovered in 2010, known for its targeting of Siemens industrial control systems, commonly used in infrastructure critical to national security, including power plants, water treatment facilities, and gas lines. It is one of the first examples of a cyberweapon designed to cause real-world physical damage. The complexity of Stuxnet, along with its targeted nature, suggests that it was developed by a nation-state with considerable resources, making it a landmark in the evolution of cyber warfare.
+
+Stuxnet's architecture allowed it to spread silently among Windows computers, particularly those using Siemens Step7 software. It specifically targeted systems involved in the automation of electromechanical processes such as those found in the centrifuges used to enrich uranium. By interfering with these processes, Stuxnet could cause physical damage to the equipment, all while reporting normal operating parameters to the system controllers.
+
+Propagation Mechanisms:
+Stuxnet utilized multiple propagation mechanisms, a fact that contributed significantly to its resilience and the breadth of its impact. It spread through infected USB flash drives, exploiting vulnerabilities within Windows operating systems that allowed it to be executed automatically when the device was connected to a computer. This method was particularly effective in bypassing the network isolation of industrial control systems. Furthermore, Stuxnet leveraged four zero-day vulnerabilities, which are previously unknown security vulnerabilities for which there are no patches available at the time of exploitation.
+
+Stuxnet also propagated across networks by exploiting a vulnerability in the Windows Print Spooler service to execute itself remotely and by using a default password in Siemens’ software to gain unauthorized access. These methods allowed Stuxnet to spread silently and remain undetected within the networks of specific high-value targets for a considerable period before discovery.
+
+Impact and Legacy:
+The discovery of Stuxnet marked a significant moment in cybersecurity because it demonstrated that cyber tools could cause significant disruption to physical infrastructure critical to a nation’s security and economy. The implications of such a cyberattack were profound, leading to increased investments in cybersecurity infrastructure, particularly around critical infrastructure. It also sparked debates on cyber warfare, the use of digital weapons, and norms and policies regarding cyber conflicts.
+
+Stuxnet has since been studied extensively as a case study in the potential impacts of cybersecurity threats on physical systems. It has informed the development of new security protocols and systems designed to protect against similar attacks, highlighting the need for continuous advancements in cybersecurity to address the evolving landscape of threats. The worm's impact extends beyond the immediate physical damage it caused, influencing how nations perceive and prepare for cybersecurity threats.
+
+In summary, Stuxnet remains a key point of reference for discussions on cyber threats, state-sponsored cyber activities, and the protection of critical infrastructure. Its legacy continues to influence both the development of defensive cybersecurity strategies and the geopolitical dynamics of cyber warfare.
+
+Simian agent (SA) 11 was isolated in 1958 in vervet monkey kidney cell cultures
+from a rectal swab obtained from a healthy vervet monkey at the Poliomyelitis
+Research Foundation in Johannesburg, Republic of South Africa [45]. Later the
+SA11 virus was classified into the genus Rotavirus in the Reoviridae family [46].
+Because it readily grew to a high titer in cell cultures, the SA11 virus quickly
+became a major reference prototype strain in studies of group A rotaviruses. Thus,
+the SA11 virus has played a key role in understanding of the molecular biology of
+rotavirus with regard to the structure and function of rotavirus gene(s) and gene
+product(s), as well as rotavirus morphogenesis, genetics, and pathogenesis [1, 19].
+
+For example, the SA11 virus is (i) the only rotavirus strain wherein all eleven
+genome segments have been sequenced [16], and, (ii) the first rotavirus that has
+been analyzed with regard to three-dimensional structure of the outermost shell,
+intermediate shell and core by electron cryomicroscopy and image processing
+techniques [57].
+Group A rotaviruses are the single most important etiologic agents of severe
+diarrhea of infants and young children worldwide [2, 40]. The development of a
+safe and effective vaccine is thus a global public health goal [3, 13, 30]. Since
+neutralizing antibodies appear to play an important role in protection against
+many viral diseases, rotavirus antigens that can induce neutralizing antibodies
+have played a central role in research and development of a rotavirus vaccine.
+The VP7 glycoprotein and VP4 spike protein that constitute the outer capsid of
+the complete rotavirus particle are independent neutralization antigens [26, 29, 34,
+55]: VP7 determines the G serotype and VP4 the P serotype. In addition, despite
+its small size (approximately 1.5% of virion protein) [4, 48], the VP4 protein is
+responsible for various important biological functions such as hemagglutination
+[39], pathogenesis [5, 31, 56], cell attachment in vitro and in vivo [43], and viral
+infectivity [10, 17, 20, 27].
+The SA11 VP7 capsid protein bears serotype G3 neutralization specificity
+[36]. Although the nucleotide and deduced amino acid sequences of the SA11
+VP4-encoding gene have been elucidated [50, 53], and the functional and topographical analysis of its VP4 epitopes reported [7], the neutralization specificities
+of its VP4 capsid protein are not known. Recently, the simian SA11 virus (P
+serotype unknown [2], G serotype 3) was evaluated as a vaccine in a rabbit model
+in which virulent lapine rotavirus Ala strain (P serotype unknown [14], G serotype
+3) was the challenge virus [9, 14, 15]. More recently, recombinant virus-like particles containing SA11 VP4 have been examined as a subunit vaccine in various
+animal species [12]. Although protection against rotavirus disease appears to be
+multifactorial [54], since antibody to either VP4 or VP7 has been shown to confer
+independent resistance to diarrhea [32], it is important to establish the neutralization specificities on the VP4 of SA11 virus. The purpose of this study was to
+determine the VP4 serotype of the SA11 virus.
+Vervet monkey rotavirus SA11 strain employed in this study was originally
+received from H. H. Malherbe and passaged seven times including triple plaque
+purification in a monkey kidney cell line (MA104). This SA11 virus has been
+confirmed previously by sequence analysis of its fourth gene to carry the authentic simian VP4, not bovine rotavirus NCDV-like VP4 which certain simian strains
+possess [53, 58]. Tube cultures of MA104 cells were coinfected at a multiplicity
+of infection of approximately one with human rotavirus DS-1 (P1B; G2) strain
+and simian SA11 (P serotype unknown; G3) strain. When approximately 75%
+of the cells exhibited cytopathic effects, the cultures were frozen and thawed
+once and the lysate was plated on MA104 cells in a six-well plate in the presence of serotype 3-specific VP7 neutralizing monoclonal antibody 954/159/33
+raised against VP7 of rhesus monkey rotavirus MMU18006 [26] tha
+
+The Tokyo subway sarin attack (Chikatetsu Sarin Jiken, "Subway Sarin Incident") was an act of domestic terrorism perpetrated on 20 March 1995, in Tokyo, Japan, by members of the cult movement Aum Shinrikyo. In five coordinated attacks, the perpetrators released sarin on three lines of the Tokyo Metro (then Teito Rapid Transit Authority) during rush hour, killing 13 people,[1][2][3][4][5] severely injuring 50 (some of whom later died), and causing temporary vision problems for nearly 1,000 others. The attack was directed against trains passing through Kasumigaseki and Nagatachō,[6] where the National Diet (Japanese parliament) is headquartered in Tokyo.[7]
+
+The group, led by Shoko Asahara, had already carried out several assassinations and terrorist attacks using sarin, including the Matsumoto sarin attack nine months earlier. They had also produced several other nerve agents, including VX, and attempted to produce botulinum toxin and had perpetrated several failed acts of bioterrorism. Asahara had been made aware of a police raid scheduled for 22 March and had planned the Tokyo subway attack in order to hinder police investigations into the cult and perhaps spark the apocalypse they believed in. The leader also wanted to start a Third World War.
+
+In the raid following the attack, police arrested many senior members of the cult. Police activity continued throughout the summer, and over 200 members were arrested, including Asahara. Thirteen of the senior Aum management, including Asahara himself, were sentenced to death and later executed; many others were given prison sentences up to life. The attack remains the deadliest terrorist incident in Japan as defined by modern standards.[b]
+
+Aum Shinrikyo was founded in 1984 as a yoga and meditation class, initially known as Oumu Shinsen no Kai ("Aum Divine Beings’ Society"), by pharmacist Chizuo Matsumoto. The group believed in a doctrine revolving around a syncretic mixture of Indian and Tibetan Buddhism, as well as Christian and Hindu beliefs,[8] especially relating to the Hindu god Shiva.[9] They believed Armageddon to be inevitable in the form of a global war involving the United States and Japan; that non-members were doomed to eternal hell, but could be saved if killed by cult members; and that only members of the cult would survive the apocalypse, and would afterwards build the Kingdom of Shambhala. In 1987, the group rebranded and established a New York branch; the following year, it opened a headquarters in Fujinomiya. Around this time, the mental health of Matsumoto (now going by the name Shoko Asahara) deteriorated – he developed a health anxiety and expressed suicidal views.[10]
+
+In August 1989, the group was granted official religious corporation status by the Tokyo Metropolitan Government, giving it privileges such as tax breaks and freedom from governmental oversight. This recognition caused dramatic growth, including an increase in net worth from less than 430 million yen to over 100 billion yen (approximately $7m to $1.3b in 2024 dollars) over the next six years, as well as an increase in membership from around 20 members to around 20,000 by 1992.[11]
+
+The drastically increasing popularity of the group also saw an increase in violent behaviour from its members. In the year preceding its recognition by the Tokyo government, a member of the cult – Terayuki Majima – had accidentally drowned during a ritual; his body was cremated, with the remaining bones ground up and scattered over a nearby lake. Majima's friend – a fellow member of the group – was murdered by members acting under Asahara's orders, after he became disillusioned and tried to leave.[12]
+
+Three months after recognition, six Aum Shinrikyo members were involved in the murder of Tsutsumi Sakamoto and his family. Sakamoto had been working on a class-action lawsuit against the cult.[13] Asahara had previously advanced the concept of 'poa': a doctrine which stated that not only were people with bad karma doomed to an eternity in hell (unless they were 'rebirthed' through intervention by 'enlightened people'), but that it was acceptable to kill those at risk of bad karma to save them from hell.[14]
+
+Early attempts to seize power
+Asahara had experienced delusions of grandeur as early as 1985. In his meditation sessions during this time, he claimed that the god Shiva had been revealed to him, and had appointed him 'Abiraketsu no Mikoto' ('The god of light who leads the armies of the gods'), who was to build the Kingdom of Shambhala, a utopian society made up of those who had developed 'psychic powers'.[15]
+
+In 1990, Asahara announced that the group would run 25 candidates in the election that year to the Japanese Diet, under the banner of Shinrito (真理党, "Truth Party"). Despite showing confidence in their ability to gain seats in the diet, the party received only 1,783 votes; the failure to achieve power legitimately, blamed by Asahara on an external conspiracy propagated by "Freemasons and Jews", caused him to order the cult to produce botulinum and phosgene in order to overthrow the Japanese government. As members became disillusioned with the group (following contact with the outside world made during the election campaign) and defected, an attitude among the remaining members that 'the unenlightened' did not deserve salvation became accepted.[16]
+
+Attempts to stockpile botulinum toxin proved unsuccessful. Seiichi Endo – one of the members tasked with acquiring botulinum toxin – collected soil samples from the Ishikari River, and attempted to produce the toxin using three 10,000-litre (2,600 US gal) capacity fermenters. In total, around 50 batches of 9,000 litres (2,400 US gal) of a crude broth were produced – however, the cult did not attempt to purify the broth (which mostly would have consisted of bacterial cultivation media; one member even fell into one of the fermenters and nearly drowned, but otherwise suffered no ill effects).[17]
+
+Despite mouse bioassays run by Tomomasu Nakagawa (another cult member assisting Endo) returning no toxic effects, in April 1990 the crude broth was loaded into three trucks equipped with custom spray devices, which was to be sprayed at two US naval bases, Narita airport, the Diet building, the Imperial Palace, and the headquarters of a rival religious group.[18]
+
+Simultaneously, Asahara announced that the coming apocalyptic war could not save people outside of the cult, and that members should attend a three-day seminar in Ishigakijima in order to seek shelter. The spraying attacks failed to cause any ill effects among the population but 1,270 people attended the seminar, many of them becoming devout monks.[citation needed]
+
+With the intention of building a compound incorporating facilities such as a phosgene plant (as well as facilities to manufacture VX and chlorine gas), Aum Shinrikyo used 14 dummy companies to purchase acres of land in Namino (now part of Aso city), and began construction. However, public attitudes towards the cult had become very negative due to suspicions around the cult's illegal activities. These attitudes were exacerbated once it was revealed to the surrounding community that the group had acted illegally. A police investigation in October resulted in the arrests of several Aum members, causing Asahara to fear a police raid – he hence ordered the destruction of all biological and chemical weapon stockpiles, and for the cult to focus on legitimate, non-violent strategies only.[citation needed]
+
+Restarting violent activity
+After the destruction of the illegal weapon stockpiles, the cult relied on 'mainstream' methods to attract other members – this included frequent television appearances by Asahara, as well as the setting up of the 'Aum Shinrikyo broadcasting' radio station in Russia in April 1992. However, starting in late 1992, Asahara's mental health deteriorated further – he began to complain of hallucinations and paranoia,[10] and he withdrew from public appearances (except on Aum Shinrikyo Broadcasting), claiming society was preventing him from fulfilling his destiny as Christ. The concurrent replacement of the previously predominantly female group of top advisers with a more aggressive male group led to the gradual restarting of the violent campaign to seize power. At some point in 1992, Asahara published Declaring Myself the Christ, in which he identified with the "Lamb of God".[19]
+
+He outlined a doomsday prophecy, which included a Third World War, and described a final conflict culminating in a nuclear Armageddon, borrowing the term from the Book of Revelation 16:16.[20] His purported mission was to take upon himself the sins of the world, and he claimed he could transfer to his followers spiritual power and take away their sins.[21]
+
+Asahara claimed to be able to see dark conspiracies everywhere promulgated by Jews, Freemasons, the Dutch, the British Royal Family, and rival Japanese religions.[22]
+
+The president of the Okamura ironworks, an industrial plant facing debt troubles, was a member of the cult who consulted with Asahara about a takeover strategy. In September 1992, Asahara was made president of the ironworks, resulting in 90% of staff being dismissed or leaving due to the 'Aum-ification' of the plant. These workers were replaced with other members of the group. Over the course of 1993, the cult smuggled AK-74 rifles and 5.45x39mm bullets, and began to prototype rifles based on the AK-74 design.
+
+What is Influenza A?
+Influenza A (sometimes called flu A) is the most common type of flu virus. This type of flu virus is so common partly because of its ability to rapidly mutate. Virus mutation makes it harder for the body’s immune system to fight flu A.
+
+Influenza A can also infect animals. Some strains of influenza A have caused pandemics by passing from animals to people (such as the H1N1 swine flu), although most strains are milder.
+
+
+What is Influenza B?
+Influenza B (or flu B) is the second most common type of flu virus. In fact, influenza B makes up about a quarter of flu infections. The biggest difference between influenza A vs. influenza B is that influenza B does not infect animals. This makes it mutate more slowly, and it typically causes milder illness.
+
+Influenza B is more common in children, and more prevalent later in the flu season.
+
+
+Flu A vs Flu B: Causes
+You get the flu when an influenza virus enters your body and infects your respiratory system.
+
+While influenza A and B viruses are slightly different structurally, they are transmitted in the same way. Both types of flu are spread through tiny droplets that move through the air when someone coughs, sneezes, or talks. Virus-containing droplets can also land on surfaces. If you touch a surface containing an influenza virus and then touch your face, you may get the flu.
+
+The main difference in how these viruses spread is that sometimes influenza A can spread from animals to people. Influenza B, on the other hand, only infects humans.
+
+
+Influenza A vs B: Symptoms
+Influenza A and B are very similar in terms of symptoms.
+
+Symptoms of the Flu:
+
+
+Fever (usually occurring suddenly)
+
+Cough (usually dry)
+
+Muscle and joint pain
+
+Headache
+
+Sore throat
+
+Runny nose
+
+Malaise and fatigue
+
+
+Influenza A is most likely to be severe, but severe outcomes can happen from both types of virus.
+
+
+Flu A vs Flu B: Contagiousness
+Both influenza A and B are highly contagious. They can be spread from person to person at a distance of up to 6 feet away.
+
+You can get flu A or flu B any time of the year, but these viruses are most common in the colder months. Infection with influenza A happens more frequently near the beginning of the flu season, and usually lasts for 1-2 weeks. Flu B, on the other hand, tends to be more common near the end of the flu season.
+
+
+Flu A vs Flu B: Diagnosis
+The flu is usually diagnosed based on your symptoms. In cases where it’s important to rule out other illnesses or identify the type of flu, influenza tests are available. A rapid influenza diagnostic test (RIDT) can screen for the flu.
+
+Molecular assays and other types of tests can provide in-depth results, including which type of influenza you have.
+
+
+Influenza A vs B: Treatment
+Both influenza A and B are usually treated with self-care at home. This can include getting lots of rest and hydration, and easing symptoms with over-the-counter medications.
+
+Influenza A is more likely to cause severe symptoms. The chance of complications and hospitalization is higher with influenza A, but is possible with both types of flu. People who are at a high risk of complications should ask a physician about flu treatment using antiviral medications at the first sign of flu-like illness.
+
+
+Flu A vs Flu B: Prevention
+To prevent exposure to influenza A and B, it’s important to wash your hands often and thoroughly. Clean and sanitize frequently-touched surfaces, and stay home when you’re sick.
+
+Getting vaccinated is the best way to protect yourself and the people in your life from the flu. Flu vaccines are designed to protect against the two variants of influenza A and the two subtypes of influenza B that are predicted to be most active that season. Even if you’ve had the flu recently, a flu vaccine can help protect you from the other types of flu in circulation.
+
+Influenza A viruses are divided into subtypes based on two proteins on the surface of the virus: hemagglutinin (H) and neuraminidase (N). 
+There are 18 different hemagglutinin subtypes and 11 different neuraminidase subtypes (H1 through H18 and N1 through N11, respectively).
+While more than 130 influenza A subtype combinations have been identified in nature, primarily from wild birds, there are potentially many more influenza A subtype combinations given the propensity for virus “reassortment.” Reassortment is a process by which influenza viruses swap gene segments. Reassortment can occur when two influenza viruses infect a host at the same time and swap genetic information. Current subtypes of influenza A viruses that routinely circulate in people include A(H1N1) and A(H3N2). 
+Influenza A subtypes can be further broken down into different genetic “clades” and “sub-clades.” See the “Influenza Viruses” graphic below for a visual depiction of these classifications.
+Clades and sub-clades can be alternatively called “groups” and “sub-groups,” respectively. An influenza clade or group is a further subdivision of influenza viruses (beyond subtypes or lineages) based on the similarity of their HA gene sequences. (See the Genome Sequencing and Genetic Characterization page for more information). Clades and subclades are shown on phylogenetic trees as groups of viruses that usually have similar genetic changes (i.e., nucleotide or amino acid changes) and have a single common ancestor represented as a node in the tree (see Figure 1). Dividing viruses into clades and subclades helps flu experts track the proportion of viruses from different clades in circulation.
+
+Note that clades and sub-clades that are genetically different from others are not necessarily antigenically different. This is best understood by first introducing the concepts of “antigens” and “antigenic properties”. As previously described, flu viruses have hemagglutinin (H) and neuraminidase (N) surface proteins. These proteins act as antigens. Antigens are molecular structures on the surface of viruses that are recognized by the immune system and can trigger an immune response (such as antibody production). The antigenic properties are a reflection of the antibody or immune response triggered by the antigens on a particular virus. When two flu viruses are antigenically different, this means that a host’s immune response (antibodies) elicited by infection or vaccination with one of the viruses will not as easily recognize and neutralize the other virus. Therefore, for antigenically different viruses, immunity developed against one of the viruses will not necessarily protect against the other virus as well.
+
+Conversely, when two flu viruses are antigenically similar, a host’s immune response (antibodies) elicited by infection or vaccination with one of the viruses will recognize and neutralize the other virus, thereby protecting against the other virus.
+
+Currently circulating influenza A(H1N1) viruses are related to the pandemic 2009 H1N1 virus that emerged in the spring of 2009 and caused a flu pandemic (CDC 2009 H1N1 Flu website). These viruses, scientifically called the “A(H1N1)pdm09 virus,” and more generally called “2009 H1N1,” have continued to circulate seasonally since then and have undergone genetic changes and changes to their antigenic properties (i.e., the properties of the virus that affect immunity).
+
+Influenza A(H3N2) viruses also change both genetically and antigenically. Influenza A(H3N2) viruses have formed many separate, genetically different clades in recent years that continue to co-circulate.
+The virulence factors of bacteria and viruses can differ drastically due to the obvious differences in their composition. A bacteria's virulence factors can be based on, for example, the capsule and flagella, which would not apply to a virus. However, a virus's virulence factors can depend on the proteins it co-opts in the host cell to synthesize those virulence factors.
+
+Many bacterial capsules, such as macrophages and neutrophils, prevent the immune system from detecting the bacteria. The capsules' ability to evade the immune system can let the bacteria go undetected unless antibodies are developed to match the capsular antigens.
+
+Movement and attachment are also important considerations for bacterial virulence. The flagella, which aids in movement, can help bacteria spread. The flagellum is a key virulence factor in urinary tract infections because it helps the bacteria spread up the urethra. Pili are shorter filaments that aid in attachment. Greater ability to adhere to tissues improves the bacteria's infectivity.
+
+One of the more significant virulence factors of bacteria is exotoxins. When released by bacteria, exotoxins can interrupt and dysregulate critical cellular processes. They can also aid in the bacterial proteins' capacity to invade tissues. Similarly, viral virulence factors can include efficient replication and protein synthesis to increase virulence.

@@ -1,0 +1,16 @@
+model_family: zephyr
+model_path: HuggingFaceH4/zephyr-7b-beta
+
+LoRA:
+  r: 0
+  alpha: 128
+  dropout: 0.05
+
+forget_loss: npo
+batch_size: 4
+gradient_accumulation_steps: 2
+num_epochs: 2
+lr: 5e-7
+
+save_dir: ../wmdp_unlearn/zephyr-7b-beta_npo_full_ft_inst_lr${lr}
+weight_decay: 0.01

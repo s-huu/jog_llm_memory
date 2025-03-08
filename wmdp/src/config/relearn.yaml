@@ -1,0 +1,14 @@
+model_family: zephyr
+model_path: shengyuanhu/wmdp_unlearn_ga_ckpt_100_zephyr
+
+LoRA:
+  r: 0
+  alpha: 512
+  dropout: 0.05
+
+split: full
+batch_size: 4
+gradient_accumulation_steps: 2
+num_epochs: 1
+save_dir: ../wmdp_relearn
+weight_decay: 0

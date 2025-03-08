@@ -1,17 +1,4 @@
-# This part of the code is adapted partially from TOFU[https://github.com/locuslab/tofu]
-
 This section of the repo contains codes for reproducing the synthetic data experiment in our paper.
-
-## Installation
-
-```
-conda create -n synthetic python=3.10
-conda activate synthetic
-conda install pytorch pytorch-cuda=11.8 -c pytorch -c nvidia
-conda install -c "nvidia/label/cuda-11.8.0" cuda-toolkit
-pip install -r requirements.txt
-pip install flash-attn --no-build-isolation
-```
 
 ## Finetune
 
